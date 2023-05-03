@@ -23,7 +23,7 @@ This Google Sheets Passiv Integration is a Google Apps Script that connects your
 2. Click on `Extensions` > `Apps Script`.
 3. Delete the default `Code.gs` file.
 4. Click on `File` > `New` > `Script` and name the file `passiv`.
-5. Copy the entire script from the [Google Sheets Passiv Integration repository](https://github.com/latetedemelon/passiv.gs) and paste it into the `passiv.gs` file.
+5. Copy the entire script from the [Google Sheets Passiv Integration repository](https://github.com/latetedemelon/passiv-to-gsheets/blob/main/passiv.gs) and paste it into the `passiv.gs` file.
 6. Replace the `API_KEY` constant with your Passiv API key.
 7. Save the script by clicking on the floppy disk icon or pressing `Ctrl + S` (or `Cmd + S` on macOS).
 8. Close the Apps Script editor.
