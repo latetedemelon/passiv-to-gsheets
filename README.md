@@ -52,5 +52,3 @@ If you find this integration helpful and would like to support its development, 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/latetedemelon/passiv-to-gsheets/blob/main/LICENSE) file for details.
-
-Please update the links and usernames
